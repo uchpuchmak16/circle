@@ -1,0 +1,4 @@
+Circle information:
+Center coordinates: (0, 0)
+Radius: 5
+Color: red
